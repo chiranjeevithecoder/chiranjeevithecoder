@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXrVtQtCrE1mKbM1h0_weoiEbdaRnNl8Le8bgrAOf4ID0kuyj6I6lNnXN_KiTRHv0swA&usqp=CAU)](http://ww25.rishavchanda.io)
+[![MasterHead](https://i0.wp.com/omnitechup.com/wp-content/uploads/2022/09/videoblocks-targeted-web-development-solutions-as-an-animation-concept-4k-uhd-motion-video_bhcv2dxab_thumbnail-full09-1-1.png?w=1920&ssl=1)](http://ww25.rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chiranjeevi V</h1>
 <h3 align="center">A passionate full satck developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
