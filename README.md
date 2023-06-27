@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn2.vectorstock.com/i/1000x1000/50/46/business-concept-background-web-development-vector-38735046.jpg)](http://ww25.rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXrVtQtCrE1mKbM1h0_weoiEbdaRnNl8Le8bgrAOf4ID0kuyj6I6lNnXN_KiTRHv0swA&usqp=CAU)](http://ww25.rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chiranjeevi V</h1>
 <h3 align="center">A passionate full satck developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
